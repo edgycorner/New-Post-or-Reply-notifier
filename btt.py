@@ -1,6 +1,6 @@
 board="2.0" #Enter Board ID here
 type=1 #Enter 1 for NEW Post notifier, 2 for Reply notifier
-keywords=["keyword/topic 1","keyword/topic 2"] #Enter title of the post if using reply notifier.
+keywords=["keyword1","keyword2"] #Enter title of the post if using reply notifier.
 token='o.Gyzsad342errafasfae23' #Pushbullet api token
 
 #Do not edit anything from below here:
